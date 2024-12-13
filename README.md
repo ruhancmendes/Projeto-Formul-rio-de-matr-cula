@@ -1,7 +1,7 @@
 <h1 align="center"> 🌐 Portal de notícias | Homepage </h1>
 
 <p align="center">
-Este é um projeto para desenvolver uma homepage de um portal de notícias sobre tecnologia para ser visualizado em um desktop. Esse é um dos projetos desenvolvidos em aula na formação Full-Stack. <br/>
+Neste projeto, desenvolvi um formulário desktop para uma escola de educação infantil. Este é um dos projetos criados durante o curso Full-Stack da Rocketseat. Neste projeto de formulário de matrícula, exploramos a criação de formulários em HTML, abrangendo campos de entrada de texto, seleção de datas, menus suspensos, áreas de texto e upload de arquivos. Também nos concentramos na personalização de inputs desafiadores, como radio e checkboxes. <br/>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ O objetivo deste projeto foi criar uma página inicial de um portal de notícias
 <h1 align="center"> 🌐 News Portal | Homepage  </h1>
 
 <p align="center">
-Neste projeto, desenvolvi um formulário desktop para uma escola de educação infantil. Este é um dos projetos criados durante o curso Full-Stack da Rocketseat. Neste projeto de formulário de matrícula, exploramos a criação de formulários em HTML, abrangendo campos de entrada de texto, seleção de datas, menus suspensos, áreas de texto e upload de arquivos. Também nos concentramos na personalização de inputs desafiadores, como radio e checkboxes. <br/>
+In this project, I develop a desktop form for a preschool. This is one of the projects created during the Full-Stack course, from Rocketseat. In this enrollment form project, we explored creating forms in HTML, covering text input fields, date selection, dropdowns, text areas, and file uploads. We also focused on customizing challenging inputs such as radio buttons and checkboxes. <br/>
 </p>
 
 <p align="center">
